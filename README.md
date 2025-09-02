@@ -13,7 +13,7 @@
 This project is the source code for Module 1: Classes & Objects in my OOP class.
 
 The sports app will manage soccer teams and basketball teams by specifying and updating the team,
-players, and goals or points using.
+players, and goals or points.
 
 <br>
 
