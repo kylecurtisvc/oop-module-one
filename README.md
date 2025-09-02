@@ -58,3 +58,9 @@ Orlando Magic has 15 players and has a total of 3 points!
 <br>
 
 **This method assumes you have the latest LTS JDK/JRE installed and are starting from the root directory of the project.**
+
+<br>
+
+## Screenshot
+
+![output](https://raw.githubusercontent.com/kylecurtisvc/oop-module-one/refs/heads/main/assets/output.png)
