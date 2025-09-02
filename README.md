@@ -2,7 +2,7 @@
 
 **Name**: Kyle Curtis
 
-**Class**: COP-3330C
+**Class**: Object Oriented Programming (COP-3330C)
 
 **Date Submitted**: May 12, 2024
 
