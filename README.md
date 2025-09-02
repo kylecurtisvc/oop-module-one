@@ -6,6 +6,8 @@
 
 **Date Submitted**: May 12, 2024
 
+**Tools Used**: Neovim (Vim), terminal.
+
 <br>
 
 ## What is this project?
